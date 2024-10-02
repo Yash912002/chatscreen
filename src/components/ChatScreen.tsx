@@ -94,7 +94,7 @@ export const ChatScreen = () => {
 			<header className="bg-white shadow flex justify-between items-center p-4">
 				<div className="flex items-center">
 					<img
-						src="./public/back_arrow.png"
+						src="./back_arrow.png"
 						alt=""
 						className="ml-4 h-[1.7rem] flex items-center"
 					/>
@@ -104,7 +104,7 @@ export const ChatScreen = () => {
 					</div>
 				</div>
 				<div className="relative">
-					<img src="./public/three_dots.png" alt="" className="h-[1rem]" />
+					<img src="./three_dots.png" alt="" className="h-[1rem]" />
 				</div>
 			</header>
 
